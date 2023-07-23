@@ -33,7 +33,7 @@ Databases:
 
 `PostgreSQL`, `Greenplum`, `Vertica`, `MySQL`, `MongoDB`, `Redis`, `SAP BI/BO`, `ClockHouse`
 
-My Data Engineering (DE) and Data Analysis (DA) projects
+My Data Engineering (DE) and Data Analysis (DA) projects from learning in Yandex.Practicum (2020 - DA, 2023 - DE)
 
 | DA/DE    | Project name                | Description                                                     | Stek                                                         |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
