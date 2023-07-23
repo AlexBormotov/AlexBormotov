@@ -3,11 +3,17 @@
 My name is Alexander Bormotov 🙋 
 Experienced IT professional with over 3 years of expertise in Data Analysis and Engineering. Passionate about process improvement through automation, testing, and implementation. A dedicated learner of the latest tools and methodologies committed to applying my knowledge and skills to bring value to the organization I serve.
 
-  <a href="www.linkedin.com/in/aleksandr-bormotov-6858634a/" rel="nofollow noreferrer">
+<a href="www.linkedin.com/in/aleksandr-bormotov-6858634a/" rel="nofollow noreferrer">
     <img src="/linkedin-logo-mini.png" alt="linkedin">
-  </a> <a href="mailto: A.V.Bormotov@yandex.ru" rel="nofollow noreferrer">
+</a> 
+&nbsp 
+<a href="https://t.me/AlexBormotov" rel="nofollow noreferrer">
+    <img src="/telegram_icon_mini.png" alt="linkedin">
+</a> 
+&nbsp 
+<a href="mailto: A.V.Bormotov@yandex.ru" rel="nofollow noreferrer">
     <img src="/email_icon_mini.png" alt="linkedin">
-  </a>
+</a>
 
 
 Data Engineer Tools:
