@@ -7,7 +7,7 @@ Experienced IT professional with over 3 years of expertise in Data Analysis and 
 * ✔️ Goals: Relocate to warm country in Europe, buy cosy house and get a fluffy kitten 🐈
 * ⚡ Fun fact: Everything I do, sooner or later, I succeed! Even sometimes it gets boring from such a life)
 
-<a href="https://www.linkedin.com/in/aleksandr-bormotov-6858634a/" rel="nofollow noreferrer">
+<a href="https://www.linkedin.com/in/alexander-bormotov-6858634a/" rel="nofollow noreferrer">
     <img src="/linkedin-logo-mini.png" alt="linkedin">
 </a> 
 &nbsp 
