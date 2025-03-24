@@ -22,7 +22,7 @@ Experienced IT professional with over 3 years of expertise in Data Analysis and 
 
 Data Engineer Tools:
 
-`Python`, `Airflow`, `Docker`, `Kubernetes`, `Conteiner Registry`, `Github`, `Bash`, `PySpark`, `Spark Streaming`, `Kafka`, `Flask`
+`SQL`, `Python`, `Cursor`, `Airflow`, `Docker`, `Kubernetes`, `Conteiner Registry`, `Github`, `Bash`, `PySpark`, `Spark Streaming`, `Kafka`, `Flask`
 
 
 Data Analyst Tools:
@@ -31,7 +31,7 @@ Data Analyst Tools:
 
 Databases:
 
-`PostgreSQL`, `Greenplum`, `Vertica`, `MySQL`, `MongoDB`, `Redis`, `SAP BI/BO`, `ClockHouse`
+`PostgreSQL`, `BigQuery`, `ClickHouse`, `Greenplum`, `Vertica`, `MySQL`, `MongoDB`, `Redis`, `SAP BI/BO`
 
 My Data Engineering (DE) and Data Analysis (DA) projects from learning courses (2020 - DA, 2023 - DE)
 
