@@ -11,14 +11,17 @@ Experienced IT professional with over 3 years of expertise in Data Analysis and 
     <img src="/linkedin-logo-mini.png" alt="linkedin">
 </a> 
 &nbsp 
+<a href="https://www.youtube.com/channel/UCL8YNeq8rA_hMDcFyWiBzKA" rel="nofollow noreferrer">
+    <img src="/youtube-logo-mini.png" alt="youtube">
+</a>
+&nbsp 
 <a href="https://t.me/AlexBormotov" rel="nofollow noreferrer">
-    <img src="/telegram_icon_mini.png" alt="linkedin">
+    <img src="/telegram_icon_mini.png" alt="telegram">
 </a> 
 &nbsp 
 <a href="mailto: alexvicbor@gmail.com" rel="nofollow noreferrer">
-    <img src="/email_icon_mini.png" alt="linkedin">
+    <img src="/email_icon_mini.png" alt="email">
 </a>
-
 
 Data Engineer Tools:
 
