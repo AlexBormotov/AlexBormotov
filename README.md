@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋</h1>
  
 My name is Alexander Bormotov 🙋 
-Experienced IT professional with over 3 years of expertise in Data Analysis and Engineering. Passionate about process improvement through automation, testing, and implementation. A dedicated learner of the latest tools and methodologies committed to applying my knowledge and skills to bring value to the organization I serve. Actively looking for a job with a move to a European country.
+Experienced IT professional with over 6 years of expertise in Data Analysis and Engineering. Passionate about process improvement through automation, testing, and implementation. A dedicated learner of the latest tools and methodologies committed to applying my knowledge and skills to bring value to the organization I serve. Actively looking for a job with a move to a European country.
 
 * 🔭 I’m currently working at M.video-Eldorado - its two biggest e-commerce and offline retailer in Russia
 * ✔️ Goals: Relocate to warm country in Europe, buy cosy house and get a fluffy kitten 🐈
