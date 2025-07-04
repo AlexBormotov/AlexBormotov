@@ -1,11 +1,11 @@
 <h1 align="center">Hi there 👋</h1>
  
 My name is Alexander Bormotov 🙋 
-Experienced IT professional with over 6 years of expertise in Data Analysis and Engineering. Passionate about process improvement through automation, testing, and implementation. A dedicated learner of the latest tools and methodologies committed to applying my knowledge and skills to bring value to the organization I serve. Actively looking for a job with a move to a European country.
+Experienced IT professional with over 6 years of expertise in Data Engineering and Analysis. Passionate about process improvement through automation, testing, and implementation. A dedicated learner of the latest tools and methodologies committed to applying my knowledge and skills to bring value to the organization I serve. Actively looking for a job with a move to a European country.
 
-* 🔭 I’m currently working at M.video-Eldorado - its two biggest e-commerce and offline retailer in Russia
-* ✔️ Goals: Relocate to warm country in Europe, buy cosy house and get a fluffy kitten 🐈
-* ⚡ Fun fact: Everything I do, sooner or later, I succeed! Even sometimes it gets boring from such a life)
+* 🔭 I’m currently working at 3Alica - Since February 2024 I have participated in 4 projects: Bank, Pharmaceutical company, Customs, Small parts manufacturing plant
+* ✔️ Goals: Buy cosy house in Serbia and get a fluffy kitten 🐈
+* ⚡ Fun fact: Everything I do, sooner or later, I succeed
 
 <a href="https://www.linkedin.com/in/alexander-bormotov-6858634a/" rel="nofollow noreferrer">
     <img src="/linkedin-logo-mini.png" alt="linkedin">
@@ -25,7 +25,7 @@ Experienced IT professional with over 6 years of expertise in Data Analysis and 
 
 Data Engineer Tools:
 
-`SQL`, `Python`, `Cursor`, `Airflow`, `Docker`, `Kubernetes`, `Conteiner Registry`, `Github`, `Bash`, `PySpark`, `Spark Streaming`, `Kafka`, `Flask`
+`SQL`, `Python`, `Cursor`, `Airflow`, `Docker`, `Kubernetes`, `GCP`, `Azure`. `Git`, `Bash`, `PySpark`, `Spark Streaming`, `Kafka`, `Flask`
 
 
 Data Analyst Tools:
