@@ -25,7 +25,7 @@ Experienced IT professional with over 6 years of expertise in Data Engineering a
 
 Data Engineer Tools:
 
-`SQL`, `Python`, `Cursor`, `Airflow`, `Docker`, `Kubernetes`, `GCP`, `Azure`. `Git`, `Bash`, `PySpark`, `Spark Streaming`, `Kafka`, `Flask`
+`SQL`, `Python`, `Cursor`, `Airflow`, `DBT`, `Docker`, `Kubernetes`, `GCP`, `Azure`. `Git`, `Bash`, `PySpark`, `Spark Streaming`, `Kafka`, `Flask`
 
 
 Data Analyst Tools:
