@@ -36,7 +36,7 @@ Databases:
 
 `PostgreSQL`, `BigQuery`, `ClickHouse`, `Greenplum`, `Vertica`, `MySQL`, `MongoDB`, `Redis`, `SAP BI/BO`
 
-My Data Engineering (DE) and Data Analysis (DA) projects from learning courses (2020 - DA, 2023 - DE)
+My Data Engineering (DE) and Data Analysis (DA) projects
 
 | DA/DE    | Project name                | Description                                                     | Stek                                                         |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
