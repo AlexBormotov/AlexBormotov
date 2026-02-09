@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋</h1>
  
 My name is Alexander Bormotov 🙋 
-Experienced IT professional with over 6 years of expertise in Data Engineering and Analysis. Passionate about process improvement through automation, testing, and implementation. A dedicated learner of the latest tools and methodologies committed to applying my knowledge and skills to bring value to the organization I serve.
+Experienced IT professional with over 10 years of expertise in Data Engineering and Analysis. Passionate about process improvement through automation, testing, and implementation. A dedicated learner of the latest tools and methodologies committed to applying my knowledge and skills to bring value to the organization I serve.
 
 * 🔭 I’m currently working at 3Alica - Since February 2024 I have participated in 4 projects: Bank, Pharmaceutical company, Customs, Small parts manufacturing plant
 * ✔️ Goals: Buy cosy house in Serbia and get a fluffy kitten 🐈
