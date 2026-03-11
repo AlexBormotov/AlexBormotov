@@ -32,7 +32,7 @@ Experienced IT professional with over 10 years of expertise in Data Engineering 
 
 Data Engineer Tools:
 
-`SQL`, `Python`, `Cursor`, `Airflow`, `DBT`, `Docker`, `Kubernetes`, `GCP`, `Azure`. `Git`, `Bash`, `PySpark`, `Spark Streaming`, `Kafka`, `Flask`
+`SQL`, `Python`, `Cursor`, `Airflow`, `DBT`, `Docker`, `GCP`, `Azure`. `Git`, `Bash`, `PySpark`, `Spark Streaming`, `Kafka`, `FastAPI`
 
 
 Data Analyst Tools:
@@ -41,7 +41,7 @@ Data Analyst Tools:
 
 Databases:
 
-`PostgreSQL`, `BigQuery`, `ClickHouse`, `Greenplum`, `Vertica`, `MySQL`, `MongoDB`, `Redis`, `SAP BI/BO`
+`PostgreSQL`, `BigQuery`, `ClickHouse`, `Greenplum`, `Azure Synapse`, `AWS Redshift`, `MySQL`, `MongoDB`, `Redis`, `SAP BI/BO`
 
 My Data Engineering (DE) and Data Analysis (DA) projects
 
