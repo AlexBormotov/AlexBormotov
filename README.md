@@ -32,7 +32,7 @@ Experienced IT professional with over 10 years of expertise in Data Engineering 
 
 Data Engineer Tools:
 
-`SQL`, `Python`, `Cursor`, `Claude Code`, `Airflow`, `DBT`, `Docker`, `GCP`, `Azure`. `Git`, `Bash`, `PySpark`, `Spark Streaming`, `Kafka`, `FastAPI`
+`SQL`, `Python`, `Cursor`, `Airflow`, `DBT`, `Docker`, `GCP`, `Azure`. `Git`, `Bash`, `PySpark`, `Spark Streaming`, `Kafka`, `FastAPI`
 
 
 Data Analyst Tools:
