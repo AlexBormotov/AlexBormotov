@@ -3,7 +3,7 @@
 My name is Alexander Bormotov 🙋 
 Experienced IT professional with over 10 years of expertise in Data Engineering and Analysis. Passionate about process improvement through automation, testing, and implementation. A dedicated learner of the latest tools and methodologies committed to applying my knowledge and skills to bring value to the organization I serve.
 
-- 🔭 I’m currently working at 3Alica - Since February 2024 I have participated in 7 projects:
+🔭 I’m currently working at Stellans - Since February 2024 I have participated in 7 projects:
    * a bank
    * a pharmaceutical company
    * a customs office
@@ -11,8 +11,6 @@ Experienced IT professional with over 10 years of expertise in Data Engineering 
    * an edtech project
    * a women's healthcare startup
    * and a marketing analytics platform 
-- ✔️ Goals: Buy cosy house in Serbia and get a fluffy kitten 🐈
-- ⚡ Fun fact: Everything I do, sooner or later, I succeed
 
 <a href="https://www.linkedin.com/in/alexander-bormotov-6858634a/" rel="nofollow noreferrer">
     <img src="/linkedin-logo-mini.png" alt="linkedin">
